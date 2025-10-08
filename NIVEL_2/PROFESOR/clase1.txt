@@ -1,0 +1,36 @@
+mencho0266@gmail.com;
+machadocsofia03@gmail.com;
+arruebarrenamaria25@gmail.com;
+
+1) Obtener un sitio web para incluir la herramienta
+tawk to, a fin incorporar el componente chatbot.
+Sugerencia: www.bootstrapmade.com
+
+Nota: Opción de plantilla gratuita
+
+https://bootstrapmade.com/
+
+2) Obtener un servicio de hospedaje en la web, que permita
+el despliegue de la página web que se desarrolló o compró
+para incluir en esta el chatbot de "tawk to".
+
+Sugerencia: www.alwaysdata.com
+
+https://www.alwaysdata.com/en/
+
+3) Una vez efectuado el registro en el hosting, para 
+nuestros efectos es https://www.alwaysdata.com/en/
+
+https://mariarruebarrena.alwaysdata.net 
+
+https://sofiamachado.alwaysdata.net 
+
+https://nestormarcano.alwaysdata.net 
+
+Se va a utiliza el servicio de Filezilla, para subir 
+al hosting, el contenido del proyecto web.
+
+
+
+
+
