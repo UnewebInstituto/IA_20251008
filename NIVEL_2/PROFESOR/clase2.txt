@@ -1,0 +1,52 @@
+Servidores de FTP de alwaysdata
+
+María:
+ftp-mariarruebarrena.alwaysdata.net
+
+Sofía:
+ftp-sofiamachado.alwaysdata.net
+
+Nestor:
+ftp-nestormarcano.alwaysdata.net
+
+Sitios Web
+María:
+https://mariarruebarrena.alwaysdata.net
+
+Sofía:
+https://sofiamachado.alwaysdata.net
+
+Nestor:
+https://nestormarcano.alwaysdata.net
+
+
+REGISTRO EN TAWK TO
+
+1) Acceder al sitio de tawk to
+https://www.tawk.to/
+
+2) Efectuar el registro
+
+3) Copiar al sección del script, que 
+corresponde a la API de Tawk to
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/68e58e1ec72178194fdaf56a/1j70b6a7s';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+4) Efectuar una copia de seguridad del archivo index.html, previendo cualquier error, a los efectos de poder devolver el cambio.
+Pegar dentro de la etiqueta <body> en el archivo
+index.html de tu sitio web el script arriba señalado.
+
+5) Acceder al panel de control
+https://dashboard.tawk.to/#/dashboard/
