@@ -1,0 +1,15 @@
+Instrucción para el prompt de la IA:
+
+Asume el rol de experto en producir contenido para un sitio web en 
+materia de "SOBRE QUE TRATA TU NEGOCIO/EMPRENDIEMIENTO/SERVICIO/VENTA"
+genera un nuevo archivo adaptando cada sección del mismo, al nuevo
+contenido relacionado con el área de negocio, considerando que 
+a este sitio web se le incorporará el widget de Tawk to a los efectos
+de utilizar el agente de IA basado en el nuevo contenido producido.
+
+DESCARGAR E INSTALAR FILEZILLA
+
+ACCEDER A TAWK TO
+
+PALETA DE COLORES
+https://www.w3schools.com/colors/colors_picker.asp
