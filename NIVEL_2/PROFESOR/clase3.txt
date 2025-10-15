@@ -1,0 +1,457 @@
+Instrucción para el prompt de la IA:
+
+Asume el rol de experto en producir contenido para un sitio web en 
+materia de "RESTAURANTES"
+genera un nuevo archivo adaptando cada sección del mismo, al nuevo
+contenido relacionado con el área de negocio, considerando que 
+a este sitio web se le incorporará el widget de Tawk to a los efectos
+de utilizar el agente de IA basado en el nuevo contenido producido.
+
+
+1RA. RESPUESTA:
+Asumo el rol de experto en contenido para sitios web de RESTAURANTES y he adaptado el contenido del archivo `index.txt` a la nueva área de negocio, bajo el concepto de un restaurante de **Cocina de Fusión Creativa** llamado **"Sabor Auténtico"**.
+
+Este contenido ha sido diseñado para ser específico, informativo y optimizado para el entrenamiento de un agente de IA como el widget de Tawk.to, permitiéndole responder a preguntas comunes de los clientes (ej. sobre el menú, la filosofía del restaurante, o los horarios).
+
+A continuación, se presenta el contenido adaptado sección por sección:
+
+### **1. Metadatos del Sitio Web (`<head>`)**
+
+  * **`<title>` (Título de la Página):**
+    `Sabor Auténtico - Cocina de Fusión Creativa y Sabores Locales`
+  * **`<meta name="description">` (Descripción):**
+    `Descubre Sabor Auténtico, el restaurante que fusiona la tradición local con técnicas culinarias modernas. Reserva tu mesa o consulta nuestro menú con ingredientes frescos.`
+  * **`<meta name="keywords">` (Palabras Clave):**
+    `restaurante, comida de fusión, cocina creativa, ingredientes locales, Sabor Auténtico, reservas, menú, gourmet, alta cocina`
+
+-----
+
+### **2. Sección Principal / Héroe (`#hero`)**
+
+  * **Título Principal (`<h1>`):**
+    `Sabor Auténtico:<br>Donde la Tradición se Fusiona con la Vanguardia`
+  * **Mensaje de Bienvenida (`<p>`):**
+    `Una experiencia culinaria única, con platos elaborados a partir de los ingredientes más frescos y locales, por nuestro aclamado Chef Esteban Ríos.`
+  * **Llamada a la Acción (CTA):**
+    `Reservar una Mesa Ahora`
+
+-----
+
+### **3. Sección Sobre Nosotros (`#about`)**
+
+  * **Título de Sección:**
+    `Conócenos - Nuestra Historia y Filosofía`
+  * **Párrafo Introductorio:**
+    `Sabor Auténtico nació de la pasión por honrar los sabores de nuestra tierra, reinterpretándolos con técnicas modernas y un toque de creatividad. Creemos en la cocina que cuenta una historia, desde el origen de sus ingredientes hasta el plato final.`
+  * **Puntos Clave (Para entrenamiento de IA):**
+      * **Filosofía Farm-to-Table:** Utilizamos productos de temporada obtenidos directamente de granjas y productores locales.
+      * **Carta de Vinos Curada:** Seleccionamos los mejores vinos internacionales y nacionales para maridar cada plato.
+      * **Experiencia Personalizada:** Nuestro equipo está dedicado a un servicio excepcional, adaptando la experiencia a sus necesidades dietéticas.
+  * **Información de Contacto para Reservas:**
+      * **Teléfono de Reservas:** `+1 (555) 789-0123`
+      * **Recomendación:** `Reservas altamente recomendadas, especialmente para el servicio de cena.`
+
+-----
+
+### **4. Sección Por Qué Elegirnos (`#why-us`)**
+
+  * **Título:**
+    `¿Por Qué Elegir Sabor Auténtico?`
+  * **Mensaje Central:**
+    `Somos más que un restaurante; somos un destino gastronómico donde la calidad, la creatividad y la sostenibilidad se encuentran en cada bocado.`
+  * **Puntos de Venta Únicos (Icon Boxes):**
+    1.  **Ingredientes Frescos y Locales:** Compromiso con la sostenibilidad, utilizando solo los mejores productos de temporada de agricultores de la región.
+    2.  **Cocina de Fusión Premiada:** Nuestro Chef ha sido reconocido por su audaz enfoque en la fusión de cocinas tradicionales y modernas.
+    3.  **Ambiente y Servicio Excepcional:** Diseño interior que complementa la experiencia culinaria y un equipo dedicado a superar tus expectativas.
+
+-----
+
+### **5. Sección Estadísticas (`#stats`)**
+
+Se han adaptado las métricas a elementos relevantes para un restaurante:
+
+1.  **Clientes Felices:** `8,500`
+2.  **Platos de Autor en Menú:** `15`
+3.  **Años de Pasión Culinaria:** `10`
+4.  **Miembros del Equipo:** `25` (Chefs, meseros, sommelier)
+
+-----
+
+### **6. Sección Menú (`#menu`)**
+
+Se han reemplazado los textos genéricos (Lorem) por platos específicos y sus descripciones, cruciales para las consultas del agente de IA:
+
+#### **Menú - Aperitivos (Starters)**
+
+| Plato | Descripción (Ingredientes) | Precio |
+| :--- | :--- | :--- |
+| **Tiradito de Pargo Cítrico** | Láminas finas de pargo fresco, leche de tigre con maracuyá, cebolla morada y cilantro. | $14.95 |
+| **Croquetas de Morcilla y Manzana** | 4 unidades. Cremosas croquetas caseras de morcilla local con un toque agridulce de manzana caramelizada. | $8.95 |
+| **Sopa del Día (Crema de Tomate Rostizado)** | Tomates frescos rostizados, albahaca y un toque de queso de cabra. Pregunte por la sopa del día. | $5.95 |
+| **Pincho de Pulpo a la Brasa** | Pulpo tierno cocido a baja temperatura y terminado a la brasa con emulsión de pimentón. | $12.95 |
+
+#### **Menú - Desayunos / Brunch (Breakfast)**
+
+| Plato | Descripción (Ingredientes) | Precio |
+| :--- | :--- | :--- |
+| **Huevos Benedictinos Fusión** | Base de arepa crujiente, jamón serrano, huevo pochado y salsa holandesa de ají amarillo. | $14.95 |
+| **Tostada Francesa de Brioche** | Brioche remojado en natillas de vainilla, con frutas de temporada y sirope de maple. | $8.95 |
+| **Omelette del Chef** | Omelette de tres huevos con queso de cabra, espinacas y un toque de pesto de nueces. | $12.95 |
+
+#### **Menú - Almuerzos (Lunch)**
+
+| Plato | Descripción (Ingredientes) | Precio |
+| :--- | :--- | :--- |
+| **Ensalada Quinoa Power Bowl** | Quinoa, kale, garbanzos, aguacate, nueces y vinagreta cítrica. (Opción Vegetariana y Saludable). | $14.95 |
+| **Hamburguesa Gourmet** | Carne de res (200g), queso cheddar ahumado, cebolla caramelizada y pan brioche. Servida con papas trufadas. | $12.95 |
+| **Pasta del Mar** | Linguini con mariscos frescos (camarón, calamar, mejillones) en salsa de tomate cherry y vino blanco. | $18.95 |
+
+#### **Menú - Cenas (Dinner)**
+
+| Plato | Descripción (Ingredientes) | Precio |
+| :--- | :--- | :--- |
+| **Filete Mignon con Puré de Yuca** | Lomo de res a la parrilla, puré de yuca cremoso y reducción (demi-glace) de vino tinto. | $29.95 |
+| **Salmón a la plancha con Risotto de Limón** | Salmón fresco a la plancha, risotto cremoso de limón y espárragos al vapor. | $24.95 |
+| **Raviolis de Ricotta y Espinacas** | Pasta fresca rellena con ricotta y espinacas en salsa de mantequilla y salvia. (Opción Vegetariana) | $16.95 |
+
+-----
+
+### **7. Sección Contacto / Ubicación**
+
+  * **Ubicación (Address):**
+    `Avenida Principal, Local 45, Distrito Central, Ciudad [X]`
+  * **Horario de Atención (Hours):**
+      * **Martes a Jueves:** 12:00 PM - 3:00 PM (Almuerzo) | 6:00 PM - 10:00 PM (Cena)
+      * **Viernes y Sábado:** 12:00 PM - 11:00 PM (Servicio continuo)
+      * **Domingo y Lunes:** Cerrado
+  * **Correo Electrónico:** `reservas@saborautentico.com`
+
+-----
+
+### **8. Widget Tawk.to**
+
+El código del widget ya está presente en el archivo `index.txt`:
+
+```html
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/68e58e1ec72178194fdaf56a/1j70b6a7s';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+```
+
+**Nota para el usuario:** Este script asegura que el chat widget de Tawk.to se cargará en su sitio. El contenido detallado en las secciones anteriores (menú, horarios, filosofía, etc.) será la base de conocimiento que usted debe cargar en la configuración de la función de Agente de IA de Tawk.to para que pueda interactuar con los visitantes de manera efectiva.
+
+2DA. RESPUESTA:
+El siguiente es el contenido completo del archivo `index.html`, adaptado a la temática de "RESTAURANTES" bajo el concepto de **"Sabor Auténtico"** e incluyendo el script del widget de Tawk.to al final del cuerpo (`</body>`).
+
+Este código asume una estructura base de plantilla web moderna (como Bootstrap, que se sugirió en los metadatos de su archivo original) para que el contenido sea presentado de forma organizada.
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Sabor Auténtico - Cocina de Fusión Creativa y Sabores Locales</title>
+  <meta name="description" content="Descubre Sabor Auténtico, el restaurante que fusiona la tradición local con técnicas culinarias modernas. Reserva tu mesa o consulta nuestro menú con ingredientes frescos.">
+  <meta name="keywords" content="restaurante, comida de fusión, cocina creativa, ingredientes locales, Sabor Auténtico, reservas, menú, gourmet, alta cocina">
+
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/main.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <header id="header" class="header fixed-top d-flex align-items-center">
+    </header>
+
+  <section id="hero" class="hero d-flex align-items-center section-bg">
+    <div class="container">
+      <div class="row justify-content-between gy-5">
+        <div class="col-lg-7 order-2 order-lg-1 d-flex flex-column justify-content-center align-items-center align-items-lg-start text-center text-lg-start">
+          <h1 data-aos="fade-up">Sabor Auténtico:<br>Donde la Tradición se Fusiona con la Vanguardia</h1>
+          <p data-aos="fade-up" data-aos-delay="100">Una experiencia culinaria única, con platos elaborados a partir de los ingredientes más frescos y locales, por nuestro aclamado Chef Esteban Ríos.</p>
+          <div class="d-flex" data-aos="fade-up" data-aos-delay="200">
+            <a href="#book-a-table" class="btn-book-a-table">Reservar una Mesa Ahora</a>
+          </div>
+        </div>
+        <div class="col-lg-5 order-1 order-lg-2 text-center text-lg-start">
+          <img src="assets/img/hero-img.png" class="img-fluid" alt="" data-aos="zoom-out" data-aos-delay="300">
+        </div>
+      </div>
+    </div>
+  </section>
+  <main id="main">
+
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>Conócenos</h2>
+          <p>Nuestra **Historia y Filosofía**</p>
+        </div>
+
+        <div class="row gy-4">
+          <div class="col-lg-7 position-relative about-img" style="background-image: url(assets/img/about.jpg) ;" data-aos="fade-up" data-aos-delay="150">
+            <div class="call-us position-absolute">
+              <h4>Reservas Altamente Recomendadas</h4>
+              <p>+1 (555) 789-0123</p>
+            </div>
+          </div>
+          <div class="col-lg-5 d-flex align-items-end" data-aos="fade-up" data-aos-delay="300">
+            <div class="content ps-0 ps-lg-5">
+              <p>Sabor Auténtico nació de la pasión por honrar los sabores de nuestra tierra, reinterpretándolos con técnicas modernas y un toque de creatividad. Creemos en la cocina que cuenta una historia, desde el origen de sus ingredientes hasta el plato final.</p>
+              <ul>
+                <li><i class="bi bi-check-circle-fill"></i> **Filosofía Farm-to-Table:** Utilizamos productos de temporada obtenidos directamente de granjas y productores locales.</li>
+                <li><i class="bi bi-check-circle-fill"></i> **Carta de Vinos Curada:** Seleccionamos los mejores vinos internacionales y nacionales para maridar cada plato.</li>
+                <li><i class="bi bi-check-circle-fill"></i> **Experiencia Personalizada:** Nuestro equipo está dedicado a un servicio excepcional, adaptando la experiencia a sus necesidades dietéticas.</li>
+              </ul>
+              <p>
+                El Chef Esteban Ríos, con una década de experiencia, lidera nuestra cocina, asegurando que cada visita sea un viaje memorable para el paladar.
+              </p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <section id="why-us" class="why-us section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+            <div class="box">
+              <span>#1</span>
+              <h4>Ingredientes Frescos y Locales</h4>
+              <p>Compromiso con la sostenibilidad, utilizando solo los mejores productos de temporada de agricultores de la región.</p>
+            </div>
+          </div><div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
+            <div class="box">
+              <span>#2</span>
+              <h4>Cocina de Fusión Premiada</h4>
+              <p>Nuestro Chef ha sido reconocido por su audaz enfoque en la fusión de cocinas tradicionales y modernas.</p>
+            </div>
+          </div><div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="box">
+              <span>#3</span>
+              <h4>Ambiente y Servicio Excepcional</h4>
+              <p>Diseño interior que complementa la experiencia culinaria y un equipo dedicado a superar tus expectativas.</p>
+            </div>
+          </div></div>
+      </div>
+    </section>
+    <section id="stats" class="stats">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="8500" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Clientes Felices</p>
+            </div>
+          </div><div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Platos de Autor en Menú</p>
+            </div>
+          </div><div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Años de Pasión Culinaria</p>
+            </div>
+          </div><div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Miembros del Equipo</p>
+            </div>
+          </div></div>
+
+      </div>
+    </section>
+    <section id="menu" class="menu">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>Nuestro Menú</h2>
+          <p>Consulta nuestros platos de **Fusión Creativa**</p>
+        </div>
+
+        <ul class="nav nav-tabs d-flex justify-content-center" data-aos="fade-up" data-aos-delay="200">
+          <li class="nav-item">
+            <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#menu-starters">
+              <h4>Aperitivos</h4>
+            </a>
+          </li><li class="nav-item">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#menu-lunch">
+              <h4>Almuerzos</h4>
+            </a>
+          </li><li class="nav-item">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#menu-dinner">
+              <h4>Cenas</h4>
+            </a>
+          </li></ul>
+
+        <div class="tab-content" data-aos="fade-up" data-aos-delay="300">
+
+          <div class="tab-pane fade active show" id="menu-starters">
+            <div class="row gy-5">
+              <div class="col-lg-12 menu-item-list">
+                <div class="menu-item">
+                  <h4>Tiradito de Pargo Cítrico</h4>
+                  <p class="ingredients">Láminas finas de pargo fresco, leche de tigre con maracuyá, cebolla morada y cilantro.</p>
+                  <p class="price">$14.95</p>
+                </div>
+                <div class="menu-item">
+                  <h4>Croquetas de Morcilla y Manzana</h4>
+                  <p class="ingredients">4 unidades. Cremosas croquetas caseras de morcilla local con un toque agridulce de manzana caramelizada.</p>
+                  <p class="price">$8.95</p>
+                </div>
+                <div class="menu-item">
+                  <h4>Pincho de Pulpo a la Brasa</h4>
+                  <p class="ingredients">Pulpo tierno cocido a baja temperatura y terminado a la brasa con emulsión de pimentón.</p>
+                  <p class="price">$12.95</p>
+                </div>
+              </div>
+            </div>
+          </div><div class="tab-pane fade" id="menu-lunch">
+            <div class="row gy-5">
+              <div class="col-lg-12 menu-item-list">
+                <div class="menu-item">
+                  <h4>Ensalada Quinoa Power Bowl (Vegetariano)</h4>
+                  <p class="ingredients">Quinoa, kale, garbanzos, aguacate, nueces y vinagreta cítrica.</p>
+                  <p class="price">$14.95</p>
+                </div>
+                <div class="menu-item">
+                  <h4>Hamburguesa Gourmet</h4>
+                  <p class="ingredients">Carne de res (200g), queso cheddar ahumado, cebolla caramelizada y pan brioche. Servida con papas trufadas.</p>
+                  <p class="price">$12.95</p>
+                </div>
+                <div class="menu-item">
+                  <h4>Pasta del Mar</h4>
+                  <p class="ingredients">Linguini con mariscos frescos (camarón, calamar, mejillones) en salsa de tomate cherry y vino blanco.</p>
+                  <p class="price">$18.95</p>
+                </div>
+              </div>
+            </div>
+          </div><div class="tab-pane fade" id="menu-dinner">
+            <div class="row gy-5">
+              <div class="col-lg-12 menu-item-list">
+                <div class="menu-item">
+                  <h4>Filete Mignon con Puré de Yuca</h4>
+                  <p class="ingredients">Lomo de res a la parrilla, puré de yuca cremoso y reducción (demi-glace) de vino tinto.</p>
+                  <p class="price">$29.95</p>
+                </div>
+                <div class="menu-item">
+                  <h4>Salmón a la plancha con Risotto de Limón</h4>
+                  <p class="ingredients">Salmón fresco a la plancha, risotto cremoso de limón y espárragos al vapor.</p>
+                  <p class="price">$24.95</p>
+                </div>
+                <div class="menu-item">
+                  <h4>Raviolis de Ricotta y Espinacas (Vegetariano)</h4>
+                  <p class="ingredients">Pasta fresca rellena con ricotta y espinacas en salsa de mantequilla y salvia.</p>
+                  <p class="price">$16.95</p>
+                </div>
+              </div>
+            </div>
+          </div></div>
+      </div>
+    </section>
+    <section id="contact" class="contact">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>Contáctanos</h2>
+          <p>Encuéntranos y **Reserva**</p>
+        </div>
+
+        <div class="row gy-4">
+
+          <div class="col-md-6">
+            <div class="info-item d-flex align-items-center">
+              <i class="icon bi bi-geo-alt flex-shrink-0"></i>
+              <div>
+                <h3>Ubicación</h3>
+                <p>Avenida Principal, Local 45, Distrito Central, Ciudad [X]</p>
+              </div>
+            </div>
+          </div><div class="col-md-6">
+            <div class="info-item d-flex align-items-center">
+              <i class="icon bi bi-clock flex-shrink-0"></i>
+              <div>
+                <h3>Horario de Atención</h3>
+                <p>
+                  <strong>Martes a Jueves:</strong> 12:00 PM - 3:00 PM (Almuerzo) | 6:00 PM - 10:00 PM (Cena)<br>
+                  <strong>Viernes y Sábado:</strong> 12:00 PM - 11:00 PM (Servicio continuo)<br>
+                  <strong>Domingo y Lunes:</strong> Cerrado
+                </p>
+              </div>
+            </div>
+          </div><div class="col-md-6">
+            <div class="info-item d-flex align-items-center">
+              <i class="icon bi bi-envelope flex-shrink-0"></i>
+              <div>
+                <h3>Email</h3>
+                <p>reservas@saborautentico.com</p>
+              </div>
+            </div>
+          </div><div class="col-md-6">
+            <div class="info-item d-flex align-items-center">
+              <i class="icon bi bi-phone flex-shrink-0"></i>
+              <div>
+                <h3>Teléfono de Reservas</h3>
+                <p>+1 (555) 789-0123</p>
+              </div>
+            </div>
+          </div></div>
+
+        <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+          </form>
+
+      </div>
+    </section>
+    </main><footer id="footer" class="footer">
+    </footer><a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <script src="assets/js/main.js"></script>
+
+  <script type="text/javascript">
+  var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+  (function(){
+  var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+  s1.async=true;
+  s1.src='https://embed.tawk.to/68e58e1ec72178194fdaf56a/1j70b6a7s';
+  s1.charset='UTF-8';
+  s1.setAttribute('crossorigin','*');
+  s0.parentNode.insertBefore(s1,s0);
+  })();
+  </script>
+  </body>
+</html>
+```
+
+3RA. REVISIÓN:
+
+prompt para los casos de Nestor y Henry.
+
+Asume el rol de experto en producir contenido para un sitio web
+en materia de "SOLUCIONES DIGITALES Y WEB" genera un nuevo archivo adaptando el texto del contenido, al nuevo contenido relacionado con el área de negocio en cuestión, respetando en la plantilla las imágenes, los efectos, los vídeos y el diseño, considerando que a este sitio web se le incorporará el widget de Tawk to a los efectos de utilizar el agente de IA basado en el nuevo contenido producido.
