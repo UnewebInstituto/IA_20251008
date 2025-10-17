@@ -1,0 +1,10 @@
+Asume el rol de experto en producir contenido para un sitio web
+en materia de "ANÁLISI FINANCIERO Y ADMINISTRACIÓN" genera un nuevo archivo adaptando el texto del contenido, al nuevo contenido relacionado con el área de negocio en cuestión, respetando en la plantilla las imágenes, los efectos, los vídeos y el diseño, considerando que a este sitio web se le incorporará el widget de Tawk to a los efectos de utilizar el agente de IA basado en el nuevo contenido producido.
+
+
+VAMOS A EFECTUAR LA INTEGRACIÓN DEL CHAT BOT (TAWK TO), CON EL CRM ZOHO 
+A TRAVÉS DEL INTEGRADOR ZAPIER.
+
+1) SE NECESITA CREAR LAS CUENTAS DE USUARIO PARA ZAPIER Y PARA ZOHO. 
+
+https://zapier.com/
