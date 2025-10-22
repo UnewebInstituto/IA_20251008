@@ -1,0 +1,5 @@
+Se indica instrucción a través del prompt para que la IA 
+asuma contexto a través de histórico de consultas pasadas:
+
+Asume el rol experto en IA y revisa el contexto del archivo anexo a los efectos de continuar el análisis 
+del tema en cuestión
