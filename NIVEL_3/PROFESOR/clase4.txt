@@ -1,0 +1,106 @@
+**Vertex AI Search** es una plataforma de **Google Cloud** diseñada para ayudar a las empresas a crear experiencias de búsqueda potentes, seguras y con la **calidad de la Búsqueda de Google**, utilizando sus propios datos corporativos.
+
+Forma parte de la suite **Vertex AI Agent Builder** y su principal objetivo es:
+
+1.  **Recuperación de Información (RAG - Retrieval-Augmented Generation):** Permite a los desarrolladores conectar grandes volúmenes de datos empresariales (sitios web, documentos, bases de datos) a modelos de Inteligencia Artificial Generativa.
+2.  **Generación de Respuestas:** En lugar de solo mostrar enlaces (como una búsqueda tradicional), el sistema genera **respuestas directas y concisas**, basadas en el contenido de sus datos, incluyendo citas y referencias a las fuentes originales para garantizar la precisión.
+3.  **Experiencias de Búsqueda de Calidad Empresarial:** Está optimizado para manejar consultas complejas y proporciona funcionalidades avanzadas como:
+    * **Búsqueda de Vectores:** Utiliza *embeddings* para entender el significado contextual en lugar de solo palabras clave.
+    * **Búsqueda en Contenido No Estructurado:** Funciona con archivos PDF, imágenes y datos estructurados.
+    * **Integración con Bots:** A menudo se combina con **Vertex AI Conversation** para crear agentes de chat o asistentes virtuales que pueden responder preguntas y mantener conversaciones basándose en el conocimiento interno de la empresa.
+
+En resumen, **Vertex AI Search** es la herramienta que permite a una empresa integrar la capacidad de búsqueda y respuesta de un modelo de IA generativa directamente con la base de conocimiento segura y privada de su organización.
+
+
+El costo de **Google Vertex AI Search** depende de la **edición** y de las **funciones específicas** que se utilicen, ya que el servicio se factura principalmente por la cantidad de consultas realizadas y el almacenamiento de datos.
+
+A continuación, se presenta un resumen de los precios clave basados en la documentación de Google Cloud (los precios están sujetos a cambios, por lo que siempre es recomendable consultar la [página oficial de precios de Google Cloud AI Applications](https://cloud.google.com/generative-ai-app-builder/pricing?hl=es-419)):
+
+### 1. Precios Principales (Basado en Consultas)
+
+El modelo de facturación más común es por cada 1,000 consultas de usuario:
+
+| Edición / Servicio | Característica | Precio por 1,000 Consultas |
+| :--- | :--- | :--- |
+| **Búsqueda (Standard Edition)** | Búsqueda básica en tus datos empresariales. | **\$1.50 USD** |
+| **Búsqueda (Enterprise Edition)** | Búsqueda + Respuestas Generativas Principales (modo IA). | **\$4.00 USD** |
+| **Respuestas Generativas Avanzadas** | Funciones mejoradas de resumen y seguimiento (se añade a cualquier edición). | **+ \$4.00 USD** (adicional por 1,000 consultas) |
+| **Búsqueda de Contenido Multimedia** | Consultas a la API de búsqueda de contenido multimedia (imágenes, video). | **\$2.00 USD** |
+
+### 2. Costos Adicionales Clave
+
+Además del costo por consulta, existen otros componentes que pueden generar cargos:
+
+| Concepto de Costo | Tarifa | Notas |
+| :--- | :--- | :--- |
+| **Índice de Datos (Almacenamiento)** | **\$5.00 USD** por GB al mes | Se aplica al tamaño de los datos que importas (documentos, sitios web) para que el servicio pueda realizar la búsqueda. |
+| **Fundamentación en tus propios datos** | **\$2.50 USD** por cada 1,000 solicitudes | Costo asociado a utilizar el modelo de IA para generar una respuesta basada en la información recuperada de tus datos. |
+
+### 3. Prueba Gratuita
+
+Google Cloud ofrece una **prueba gratuita** para explorar el servicio, que generalmente incluye un límite de **10,000 consultas por cuenta y por mes** sin costo (generalmente sin incluir las respuestas generativas avanzadas).
+
+**En resumen:** El costo final es una suma de: `(Consultas x Tarifa por 1,000) + (Almacenamiento x Tarifa por GB) + (Costos por Fundamentación/Funciones Avanzadas)`.
+
+
+**Google Dialogflow** es una plataforma de **comprensión del lenguaje natural (NLU)** que forma parte de Google Cloud y que permite a las organizaciones diseñar y crear **interfaces de usuario conversacionales** avanzadas. En términos sencillos, es la herramienta de Google para construir **bots de chat (chatbots)** y **asistentes de voz** (como los que impulsan el Asistente de Google o centros de contacto automatizados).
+
+### Funcionalidad Principal
+
+Dialogflow actúa como el "cerebro" detrás de la conversación, realizando tres tareas clave:
+
+1.  **Analizar la Entrada:** Puede analizar múltiples tipos de entradas de los usuarios, incluyendo **texto** (chat) o **audio** (llamadas telefónicas, comandos de voz).
+2.  **Comprender la Intención (*Intent*):** Utiliza *machine learning* para identificar el objetivo del usuario (la "Intención"). Por ejemplo, si el usuario dice "Quiero reservar una mesa para dos," la intención es `HacerReserva`.
+3.  **Extraer Información (*Entities*):** Captura los datos específicos y cruciales de la frase del usuario (las "Entidades"). En el ejemplo anterior, `dos` es una entidad (el número de personas).
+4.  **Generar Respuesta:** Con la intención y los datos extraídos, el agente devuelve la respuesta más adecuada, ya sea mediante texto o voz sintética.
+
+### Ediciones Principales
+
+Dialogflow se ofrece en dos ediciones principales, orientadas a diferentes niveles de complejidad:
+
+| Edición | Ideal para | Enfoque de Diseño | Características Destacadas |
+| :--- | :--- | :--- | :--- |
+| **Dialogflow ES (Essentials)** | Agentes conversacionales **pequeños** a **medianos** o para experimentación. | Diseño basado en **Intenciones** y **Contextos** para controlar rutas. | Edición más simple y fácil para principiantes. |
+| **Dialogflow CX (Customer Experience)** | Agentes **grandes** y **muy complejos** a nivel empresarial (contact centers, etc.). | Diseño basado en **Flujos** y **Páginas** utilizando un modelo visual de máquina de estados. | Control explícito de la conversación, mayor reusabilidad y una interfaz visual avanzada. |
+
+En resumen, Dialogflow proporciona la tecnología de IA necesaria para que las aplicaciones (móviles, web, dispositivos, sistemas telefónicos) puedan interactuar con los usuarios de una manera natural y humana.
+
+Las tarifas de Google Dialogflow varían significativamente según la **edición** utilizada (**ES** para esencial/simple o **CX** para complejo/empresarial) y el **tipo de interacción** (chat de texto o voz/audio).
+
+La facturación se basa en el modelo de **pago por uso** (Pay-As-You-Go), donde se cobra por cada *solicitud* (en ES) o por *sesión* o *solicitud* (en CX).
+
+Aquí tienes un resumen de las tarifas clave (los precios son aproximados y se recomienda consultar la documentación oficial de Google Cloud para obtener las tarifas más actualizadas):
+
+### 1. Dialogflow CX (Customer Experience - Edición Avanzada)
+
+Diseñado para sistemas de conversación complejos y a gran escala (contact centers).
+
+| Tipo de Uso | Unidad de Facturación | Tarifa Aproximada |
+| :--- | :--- | :--- |
+| **Texto (Chat) y Solicitudes a la API** | Por solicitud | **\$0.007 USD** por solicitud |
+| **Voz (Entrada/Salida de Audio)** | Por segundo de audio | **\$0.001 USD** por segundo de audio |
+| **Sesiones de Chat** | Por cada 100 sesiones de chat | **\$20.00 USD** por 100 sesiones (modelo de precios anterior, aún referenciado) |
+| **Funciones Generativas** | Por tokens (basado en la generación de IA) | Aplican tarifas adicionales (pueden ser elevadas dependiendo del uso de *tokens*). |
+
+**Nota sobre CX:** Una **solicitud** se genera cada vez que el usuario final envía una entrada (texto o voz) al agente. A menudo, las tarifas de CX se simplifican a un costo por **sesión** de chat o voz, lo que puede ser más fácil de presupuestar para interacciones largas.
+
+### 2. Dialogflow ES (Essentials - Edición Estándar)
+
+Diseñado para agentes de pequeña a mediana escala y menos complejos.
+
+| Tipo de Uso | Unidad de Facturación | Tarifa Aproximada |
+| :--- | :--- | :--- |
+| **Texto (Chat) y Solicitudes a la API** | Por solicitud | **\$0.002 USD** por solicitud |
+| **Entrada de Audio (Voz a Texto - STT)** | Por 15 segundos de audio | **\$0.0065 USD** por cada 15 segundos |
+| **Salida de Audio (Texto a Voz - TTS)** | Por 1 millón de caracteres | A partir de **\$4.00 USD** (para voces estándar). |
+| **Análisis de Sentimiento** | Por 1,000 solicitudes | Hasta **\$1.00 USD** por 1,000 solicitudes |
+
+**Nota sobre ES:** La facturación es más granular y se basa en el número de solicitudes (*requests*). También tiene una **Trial Edition gratuita** con cuotas y soporte limitados, ideal para probar la plataforma.
+
+### 3. Otros Costos
+
+Ambas plataformas pueden incurrir en costos por servicios subyacentes de Google Cloud, tales como:
+
+* **Speech-to-Text (STT):** Para la transcripción del audio a texto.
+* **Text-to-Speech (TTS):** Para la generación de voz sintética.
+* **Vertex AI Search Data Store:** Si utilizas la integración de IA generativa (RAG) para fundamentar las respuestas de tu agente con tus datos corporativos, se aplicarán los costos de almacenamiento y búsqueda de Vertex AI Search.
