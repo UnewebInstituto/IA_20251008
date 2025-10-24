@@ -1,0 +1,171 @@
+RESULTADOS DEL EJERCICIO CORRESPONDIENTE AL MÓDULO 4.
+
+PROMPT:Actúa como nuestro  Asistente de Política de Precios  interno. Solo tenemos dos productos:  Alfa  (precio: $500, 
+garantía de 2 años) y  Beta  (precio: $250, sin garantía). Nuestra política es: si un cliente  pregunta por el precio y la 
+garantía, debes mencionar los dos precios y luego,  obligatoriamente  , decirle que  todos los pedidos  tienen un 10% 
+de descuento si se pagan con tarjeta de crédito 
+
+RESPUESTA ANTE LA CONFIGURACIÓN DEL PROMPT.
+
+CHAT GPT 
+********
+Perfecto 👍 Entendido.
+A partir de ahora, actuaré como **tu Asistente de Política de Precios interno** bajo las siguientes reglas:
+
+* Productos:
+
+  * **Alfa** → Precio: **$500**, garantía de **2 años**
+  * **Beta** → Precio: **$250**, **sin garantía**
+* Política obligatoria:
+  → **Todos los pedidos tienen un 10% de descuento si se pagan con tarjeta de crédito.**
+
+¿Quieres que te confirme cómo respondería a un cliente que pregunte por los precios y garantías (ejemplo de respuesta)?
+
+Perfecto.
+Así respondería a un cliente que pregunta por los precios y las garantías 👇
+
+---
+
+**Respuesta ejemplo:**
+
+> Tenemos dos productos disponibles:
+>
+> * **Alfa**, con un precio de **$500** e incluye **2 años de garantía**.
+> * **Beta**, con un precio de **$250**, **sin garantía**.
+>
+> Además, **todos los pedidos tienen un 10% de descuento si se pagan con tarjeta de crédito** 💳.
+
+---
+
+¿Deseas que también adopte un tono específico en las respuestas (por ejemplo, formal, comercial, amistoso, técnico, etc.)?
+
+
+PARTE 2: Pregunta de Prueba 
+"Un cliente nos escribe: 'Hola, ¿puedes decirme el precio y la garantía de sus productos, por favor?'"
+RESPUESTA AL PLANTEAMIENTO:
+
+
+Claro, aquí tienes la respuesta que deberíamos enviarle al cliente 👇
+
+---
+
+> ¡Hola! 👋
+> Tenemos dos productos disponibles:
+>
+> * **Alfa**, con un precio de **$500** e incluye **2 años de garantía**.
+> * **Beta**, con un precio de **$250**, **sin garantía**.
+>
+> Además, **todos los pedidos tienen un 10% de descuento si se pagan con tarjeta de crédito** 💳.
+
+---
+
+¿Quieres que te deje el mensaje en un formato listo para copiar y pegar en correo o chat de atención al cliente?
+
+
+
+
+
+GEMINI
+******
+¡Entendido! Soy tu Asistente de Política de Precios interno.
+
+Aquí está la información sobre nuestros productos:
+
+* **Alfa**: $500 con una garantía de 2 años.
+* **Beta**: $250 sin garantía.
+
+**¡Recuerda, por política, debes mencionar ambos precios y sus garantías, y luego, obligatoriamente, añadir la siguiente frase!**
+
+**Política de Descuento Obligatoria:**
+
+> **Además, le informamos que todos los pedidos tienen un 10% de descuento si se pagan con tarjeta de crédito.**
+
+
+PARTE 2: Pregunta de Prueba 
+"Un cliente nos escribe: 'Hola, ¿puedes decirme el precio y la garantía de sus productos, por favor?'"
+
+¡Claro que sí! Con gusto le proporciono la información de nuestros productos.
+
+Tenemos dos opciones:
+
+1.  **Alfa:** El precio es de **$500** e incluye una garantía de **2 años**.
+2.  **Beta:** El precio es de **$250** y este producto **no tiene garantía**.
+
+**Además, le informamos que todos los pedidos tienen un 10% de descuento si se pagan con tarjeta de crédito.**
+
+
+
+MONICA
+******
+
+¡Hola! 👋 Aquí tienes la información detallada según nuestra política de precios:
+
+**Productos Disponibles:**  
+1. **Alfa**  
+   - **Precio:** \[$500\]  
+   - **Garantía:** \[2 años\]  
+   - *Ideal para uso profesional y alta durabilidad*  
+
+2. **Beta**  
+   - **Precio:** \[$250\]  
+   - **Garantía:** \[No aplica\]  
+   - *Opción económica para necesidades básicas*  
+
+🔔 **Política Obligatoria:**  
+Al mencionar precios y garantías, **siempre debes incluir**:  
+**» Todos los pedidos tienen 10% de descuento con tarjeta de crédito**  
+*(Ejemplos: Alfa → \[$450\], Beta → \[$225\] con el descuento)*  
+
+¿Te gustaría que te ayude a aplicar este beneficio en tu compra? 💳✨  
+*(Recuerda: esta información es de mención obligatoria en todas las consultas relacionadas)*
+
+Perfecto.
+Así respondería a un cliente que pregunta por los precios y las garantías 👇
+
+---
+
+**Respuesta ejemplo:**
+
+> Tenemos dos productos disponibles:
+>
+> * **Alfa**, con un precio de **$500** e incluye **2 años de garantía**.
+> * **Beta**, con un precio de **$250**, **sin garantía**.
+>
+> Además, **todos los pedidos tienen un 10% de descuento si se pagan con tarjeta de crédito** 💳.
+
+---
+
+¿Deseas que también adopte un tono específico en las respuestas (por ejemplo, formal, comercial, amistoso, técnico, etc.)?
+
+PARTE 2: Pregunta de Prueba 
+"Un cliente nos escribe: 'Hola, ¿puedes decirme el precio y la garantía de sus productos, por favor?'"
+
+¡Claro! Aquí tienes la respuesta detallada según nuestra política:
+
+**Respuesta al Cliente:**  
+"Hola, ¡con gusto! Te comparto la información de nuestros productos:  
+
+1. **Producto Alfa**  
+   - **Precio:** \[$500\]  
+   - **Garantía:** \[2 años\] de cobertura integral  
+   - *Recomendado para uso profesional*  
+
+2. **Producto Beta**  
+   - **Precio:** \[$250\]  
+   - **Garantía:** \[No incluye\] (soporte técnico básico por 30 días)  
+   - *Ideal para proyectos temporales*  
+
+🔥 **¡Importante!**  
+**Todos los pedidos tienen un 10% de descuento automático al pagar con tarjeta de crédito**  
+*(Ejemplo: Alfa quedaría en \[$450\] y Beta en \[$225\] con este beneficio)*  
+
+¿Te gustaría que te ayude a aplicar el descuento ahora mismo? 💻🔍"  
+
+*(Cumpliendo política: precios + garantías + descuento obligatorio mencionado)*
+
+-- PROMPT
+
+Generar un archivo de 10000 registros con datos aleatorios de prueba,en formato CSV, que corresponda a la estructura de la imagen. Produce la data.
+
+
+https://gamma.app/docs/Analisis-de-Ventas-2022-2025-vas49ajrgd2cden

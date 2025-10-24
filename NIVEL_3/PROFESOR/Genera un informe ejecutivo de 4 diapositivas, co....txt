@@ -1,0 +1,83 @@
+﻿INFORME EJECUTIVO: ESTRATEGIA DE CRECIMIENTO Q4 2025
+1. Diapositiva: Predicción de Ventas para el Próximo Trimestre (Q4 2025)
+Objetivo Estratégico: Revertir la tendencia de estancamiento y alcanzar un crecimiento de ventas del 5% sobre el trimestre anterior (Q3 2025).
+Métrica
+	Base (Q3 2025)
+	Objetivo Proyectado (Q4 2025)
+	Variación
+	Ventas Totales (€)
+	$\mathbf{84.343.187}$
+	$\mathbf{88.560.346}$
+	+5%
+	Inversión Marketing (€)
+	No aplica
+	$\mathbf{8.823.610}$
+	Calculada
+	Ratio de Eficiencia de Marketing (REM)
+	No aplica
+	$0.0996$
+	Basado en Q4 2024
+	CONCLUSIÓN: Se proyecta alcanzar $\mathbf{88.560.346} €$ en ventas, lo que requiere una inversión estratégica de $\mathbf{8.823.610} €$ para igualar la eficiencia histórica del Q4 2024.
+2. Diapositiva: Gráfico de Tendencia con la Proyección
+La Tendencia: Crecimiento Agotado y Proyección de Recuperación (Ventas Anuales)
+ANÁLISIS DE TENDENCIA (2022-2025):
+* 2022 a 2023: Crecimiento explosivo inicial (+589%).
+* 2024 en adelante: La tendencia se revierte y entra en declive (caídas de 1.77% en 2024 y 9.61% en 2025).
+* PROYECCIÓN Q4 2025: El objetivo de +5% marca el punto de inflexión necesario para iniciar una trayectoria de recuperación en el nuevo ciclo.
+Año
+	Ventas Totales (€)
+	Crecimiento Interanual
+	2022
+	$56.464.000$
+	N/A
+	2023
+	$389.241.378$
+	$\mathbf{+589\%}$
+	2024
+	$382.334.893$
+	$\mathbf{-1.77\%}$ (Alarma)
+	2025 (Proy. Q4)
+	$345.605.332 \to 349.8M$
+	$\mathbf{-9.61\%}$ (Base)
+	3. Diapositiva: Insight Clave: La Variable de Mayor Impacto (REM)
+El Desafío de la Eficiencia: Inversión Desacoplada de Ventas
+El insight más crítico es la nula correlación y el deterioro de la eficiencia del Marketing.
+Métrica
+	2022 (Q4)
+	2024 (Q4)
+	Variación
+	Ratio de Eficiencia de Marketing (REM) ($\frac{\text{Inversión}}{\text{Venta}}$)
+	$0.0498$
+	$0.0996$
+	+100%
+	Correlación diaria entre Marketing y Ventas
+	Extremadamente Débil ($\approx -0.04$)
+	
+
+	
+
+	Conclusiones Clave:
+1. Gasto Ineficiente: El costo de generar $\mathbf{1} €$ de venta se ha duplicado entre 2022 y 2024.
+2. Falta de Predicción: La inversión de marketing en un día determinado no genera un impacto lineal e inmediato en las ventas de ese día. Las ventas están impulsadas por otros factores.
+Acción Requerida: La inversión de $\mathbf{8.8M} €$ para Q4 debe ir acompañada de un cambio radical en la estrategia de marketing para mejorar el REM de $0.0996$ a un nivel más cercano a la eficiencia histórica de 2022.
+4. Diapositiva: Plan de Acción Estratégico (Q4 2025)
+Eje Estratégico
+	Objetivo
+	Plan de Acción Específico
+	Métrica de Éxito
+	1. Reversión de Tendencia
+	Reestructurar la estrategia comercial para impulsar el crecimiento.
+	Lanzar un nuevo plan de fidelización/expansión de clientes en Octubre para aprovechar el pico estacional.
+	Ventas Totales de Q4: $\mathbf{88.560.346} €$
+	2. Eficiencia de Marketing
+	Mejorar el Ratio de Eficiencia de Marketing (REM).
+	Pivotar la inversión de Marketing de tácticas diarias a campañas de mayor duración con impacto diferido (ej: Branding, SEO, Retención).
+	Reducir el REM de $0.0996$ a $0.08$ en Q4.
+	3. Optimización Estacional
+	Maximizar el rendimiento durante los meses pico.
+	Concentrar el 65% de la inversión de Q4 en campañas de alto impacto durante Octubre y Noviembre.
+	Ventas de Octubre/Noviembre: $\mathbf{\ge 60\%}$ del objetivo de Q4.
+	4. Medición y Control
+	Entender los verdaderos drivers de las ventas.
+	Implementar un modelo de atribución multicanal para medir el impacto diferido de la inversión.
+	Correlación entre Marketing y Ventas (a 30 días): Mejorar a $r > 0.4$.
